@@ -1,0 +1,47 @@
+body {
+    background-color: #253439;
+    color: #fefefe;
+    font-family: 'Oswald', sans-serif;
+}
+
+.titleSpace {
+    min-height:82%;
+
+}
+.titleSpace h1 {
+    color: #74dde0;
+    text-align: center;
+}
+
+.graphSpace {
+    background-color: #f1f1f1;
+    color: #111111;
+}
+
+.controlSpace {
+    background-color: #f1f1f1;
+    color: #111111;
+
+}
+
+.bottomSpace {
+    background-color: #101010;
+    color: #f1f1f1;
+    min-height:18%;
+}
+#divFormulaDefinicion {
+}
+
+.row{
+    overflow: hidden; 
+}
+
+[class*="col-"]{
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+
+.funcionOriginal {
+    stroke: #101010;
+    stroke-width: 2px;
+}
